@@ -1,0 +1,25 @@
+.bg-change-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-container {
+    background: white;
+    border: solid 1px transparent;
+    border-radius: 10px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+}
+.btn-container > button {
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    margin: 0 5px;
+    
+}
